@@ -1,3 +1,9 @@
+/*
+Ray Mukoyama 
+1/22/2025
+coutry class represent the details of a country likie name, capital and language and the file name associated to the image 
+
+*/
 public class Country {
   private String name;
   private String capital;

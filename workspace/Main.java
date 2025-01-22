@@ -1,3 +1,10 @@
+/* 
+ Ray Mukoyama 
+ 1/22/2025
+ This is a Java Geography game to quiz users about different countries. Main class is responsible for managing the game logic 
+ * 
+*/
+
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
